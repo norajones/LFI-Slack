@@ -3,13 +3,17 @@ Documents and resources for the "Learning from Incidents in Software" slack work
 
 We're at an age in software where learning from incidents is pivotal to our success, and we don't get exposed to this as much as we should while we're being trained. This slack exists to help longtime, new, and aspiring software engineers and software engineering leaders to learn human factors, systems safety, and distilling information within their organizations through conversation and sharing of ideas.
 
-If you are looking for more information on these fields, Lorin Hochstein has put together a nice aggregation of info here: https://github.com/lorin/resilience-engineering
+If you are looking for more information on these fields, Lorin Hochstein has put together a nice aggregation of info here: https://github.com/lorin/resilience-engineering. 
+
+If you're just getting started in this field we recommend reading: 
+* How Complex Systems Fail, by Richard Cook
+* The Field Guide to Human Error, by Sidney Dekker 
 
 Once you’re in the workspace, the following suggestions and guidelines are intended to make your first days of the community more useful and educational:
 
 1. Go and introduce yourself on #intros. Tell us about yourself, give a fun fact, update your profile with a photo. Put the "human" in human factors.
 2. Read the Code of Conduct.
-3. Explore the channels. There are a lot of them and, chances are, there is already a rich conversation in progress on your favorite leadership topic. If you’re looking for a place to start, we recommend:
+3. Explore the channels. If you’re looking for a place to start, we recommend:
    * #cases (share your favorite and interesting public incidents)
    * #conferences
    * #human-factors
