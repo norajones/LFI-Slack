@@ -2,11 +2,12 @@
 
 We're at an age in software where learning from incidents is pivotal to our success, and we don't get exposed to this as much as we should while we're being trained. This slack exists to help longtime, new, and aspiring software engineers and software engineering leaders to learn human factors, systems safety, and distilling information within their organizations through conversation and sharing of ideas.
 
-If you are looking for more information on these fields, Lorin Hochstein has put together a nice aggregation of info here: https://github.com/lorin/resilience-engineering. 
-
 If you're just getting started in this field we recommend reading: 
 * How Complex Systems Fail, by Richard Cook
 * The Field Guide to Human Error, by Sidney Dekker 
+* The Error of Counting Errors, by Robert L Wears (ping @nora if you'd like a copy of this one)
+
+If you are looking for deeper information on these fields, Lorin Hochstein has put together a nice aggregation of info here: https://github.com/lorin/resilience-engineering. 
 
 Once you’re in the workspace, the following suggestions and guidelines are intended to make your first days of the community more useful and educational:
 
@@ -23,7 +24,7 @@ Once you’re in the workspace, the following suggestions and guidelines are int
 5. This Slack is not a place for commercial activity (e.g. recruiting, or marketing your product/conference) except in channels dedicated to that purpose (e.g. #conferences, or #services) and never in an unsolicited direct message. If you are just here to sell things and not contribute and learn, the community will notice quickly. If you see commercial behavior going down, direct message any of the admins, and they will fix it.
 6. Use the "Chatham House Rules" as a guideline for sharing information you find in this Slack (“participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed”). For attribution of specific content found on this Slack, please ask the originator of that content for consent.
 
-If you know someone who should be in here, drop @nora, @lorin, or @Will Gallego (the admins) a direct message in the Slack, and one of them will send an invite.
+If you know someone who should be in here, drop @nora (PST), @lorin (PST), @DeVita (PST), or @Will Gallego (EST) (the admins) a direct message in the Slack, and one of them will send an invite.
 
 We are a small and new community right now, but we expect this to evolve and grow over time, as such, so will these guidelines.
 
