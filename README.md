@@ -11,18 +11,17 @@ If you're just getting started in this field we recommend reading:
 Once you’re in the workspace, the following suggestions and guidelines are intended to make your first days of the community more useful and educational:
 
 1. Go and introduce yourself on #intros. Tell us about yourself, give a fun fact, update your profile with a photo. Put the "human" in human factors.
-2. Read the Code of Conduct.
-3. Explore the channels. If you’re looking for a place to start, we recommend:
+2. Explore the channels. If you’re looking for a place to start, we recommend:
    * #cases (share your favorite and interesting public incidents)
    * #conferences
    * #human-factors
    * There are also regional meetup channels for New York (#new-york) and San Francisco (#bayarea), feel free to create one for your region if you don't see it on the list.
    * Our channels will have people from all over the world, please check out the channel population before using @here or @channel.
    * If your favorite topic isn’t being discussed, create it. Channels are free. Announce your newly created channel on #new-channels.
-4. Everyone is welcome to contribute regardless of where you are in implementation, studies, or research. If you want to hang back and lurk, that’s cool.
-5. We expect that we’ll treat others with respect and kindness. We encourage debate; we ask for patience, and we remind you that you’re here to learn and that means being open to a diverse set of ideas.
-6. This Slack is not a place for commercial activity (e.g. recruiting, or marketing your product/conference) except in channels dedicated to that purpose (e.g. #conferences, or #services) and never in an unsolicited direct message. If you are just here to sell things and not contribute and learn, the community will notice quickly. If you see commercial behavior going down, direct message any of the admins, and they will fix it.
-7. Use the "Chatham House Rules" as a guideline for sharing information you find in this Slack (“participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed”). For attribution of specific content found on this Slack, please ask the originator of that content for consent.
+3. Everyone is welcome to contribute regardless of where you are in implementation, studies, or research. If you want to hang back and lurk, that’s cool.
+4. We expect that we’ll treat others with respect and kindness. We encourage debate; we ask for patience, and we remind you that you’re here to learn and that means being open to a diverse set of ideas.
+5. This Slack is not a place for commercial activity (e.g. recruiting, or marketing your product/conference) except in channels dedicated to that purpose (e.g. #conferences, or #services) and never in an unsolicited direct message. If you are just here to sell things and not contribute and learn, the community will notice quickly. If you see commercial behavior going down, direct message any of the admins, and they will fix it.
+6. Use the "Chatham House Rules" as a guideline for sharing information you find in this Slack (“participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed”). For attribution of specific content found on this Slack, please ask the originator of that content for consent.
 
 If you know someone who should be in here, drop @nora, @lorin, or @Will Gallego (the admins) a direct message in the Slack, and one of them will send an invite.
 
