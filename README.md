@@ -1,7 +1,7 @@
 # Learning From Incidents in Software Slack Community
 Documents and resources for the "Learning from Incidents in Software" slack workspace.
 
-We're at an age in software where learning from incidents is pivotal to our success, and we don't get exposed to this as much as we should while we're being trained. Combined with a tremendous collection of impenetrable literature, leadership exists as an essential learnable skill that is often learned on the job. This slack exists to help longtime, new, and aspiring software engineers and software engineering leaders to learn human factors, systems safety, and distilling information within their organizations through conversation and sharing of ideas.
+We're at an age in software where learning from incidents is pivotal to our success, and we don't get exposed to this as much as we should while we're being trained. This slack exists to help longtime, new, and aspiring software engineers and software engineering leaders to learn human factors, systems safety, and distilling information within their organizations through conversation and sharing of ideas.
 
 If you are looking for more information on these fields, Lorin Hochstein has put together a nice aggregation of info here: https://github.com/lorin/resilience-engineering
 
