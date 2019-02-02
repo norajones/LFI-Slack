@@ -1,5 +1,4 @@
-# Learning From Incidents in Software Slack Community
-Documents and resources for the "Learning from Incidents in Software" slack workspace.
+# Learning From Incidents in Software - Slack Community
 
 We're at an age in software where learning from incidents is pivotal to our success, and we don't get exposed to this as much as we should while we're being trained. This slack exists to help longtime, new, and aspiring software engineers and software engineering leaders to learn human factors, systems safety, and distilling information within their organizations through conversation and sharing of ideas.
 
