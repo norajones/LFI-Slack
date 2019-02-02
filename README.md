@@ -29,4 +29,4 @@ We are a small and new community right now, but we expect this to evolve and gro
 
 Happy learning!
 
-(Thank you to very much Michael Lopp for his community's welcome message on which this was largely based off of: http://randsinrepose.com/welcome-to-rands-leadership-slack/)
+(Thank you to Michael Lopp for his community's welcome message, on which this was largely based off of: http://randsinrepose.com/welcome-to-rands-leadership-slack/)
