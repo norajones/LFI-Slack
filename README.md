@@ -6,6 +6,7 @@ If you're just getting started in this field we recommend reading:
 * How Complex Systems Fail, by Richard Cook
 * The Field Guide to Human Error, by Sidney Dekker 
 * The Error of Counting Errors, by Robert L Wears (ping @nora if you'd like a copy of this one)
+* Debriefing Facilitation Guide (Etsy), by John Allspaw, Morgan Evans, Daniel Schauenberg
 
 If you are looking for deeper information on these fields, Lorin Hochstein has put together a nice aggregation of info here: https://github.com/lorin/resilience-engineering. 
 
