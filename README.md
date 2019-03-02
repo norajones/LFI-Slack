@@ -25,7 +25,14 @@ Once you’re in the workspace, the following suggestions and guidelines are int
 5. This Slack is not a place for commercial activity (e.g. recruiting, or marketing your product/conference) except in channels dedicated to that purpose (e.g. #conferences, or #services) and never in an unsolicited direct message. If you are just here to sell things and not contribute and learn, the community will notice quickly. If you see commercial behavior going down, direct message any of the admins, and they will fix it.
 6. Use the "Chatham House Rules" as a guideline for sharing information you find in this Slack (“participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed”). For attribution of specific content found on this Slack, please ask the originator of that content for consent.
 
-If you know someone who should be in here, drop @nora (PST), @lorin (PST), @kitchens (PST), @DeVita (PST), or @Will Gallego (EST) (the admins) a direct message in the Slack, and one of them will send an invite.
+If you know someone who should be in here, drop one of the admins a line and they will send them an invite.
+
+## The Admins (as of 3/1/2019)
+Nora Jones, @nora (PST) - Moderator
+Lorin Hochstein, @lorin (PST)
+Ryan Kitchens, @kitchens (PST),
+Jessica Devita @DeVita (PST), 
+Will Gallego, @Will Gallego (EST)
 
 We are a small and new community right now, but we expect this to evolve and grow over time, as such, so will these guidelines.
 
