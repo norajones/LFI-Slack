@@ -28,11 +28,11 @@ Once you’re in the workspace, the following suggestions and guidelines are int
 If you know someone who should be in here, drop one of the admins a line and they will send them an invite.
 
 ## The Admins (as of 3/1/2019)
-Nora Jones, @nora (PST) - Moderator
-Lorin Hochstein, @lorin (PST)
-Ryan Kitchens, @kitchens (PST),
-Jessica Devita @DeVita (PST), 
-Will Gallego, @Will Gallego (EST)
+* Nora Jones, @nora (PST) - Moderator
+* Lorin Hochstein, @lorin (PST)
+* Ryan Kitchens, @kitchens (PST)
+* Jessica Devita @DeVita (PST) 
+* Will Gallego, @Will Gallego (EST)
 
 We are a small and new community right now, but we expect this to evolve and grow over time, as such, so will these guidelines.
 
