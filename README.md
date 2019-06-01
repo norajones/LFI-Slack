@@ -1,6 +1,6 @@
 # Learning From Incidents in Software - Slack Community
 
-We're at an age in software where learning from incidents is pivotal to our companies continued successes. There is an opportunity for Software Engineers to learn more about the applications of Resilience Engineering, Human Factors, and Systems Safety to their everyday work with the goal of learning how we can better extract value from incidents and surprises. This slack exists to help longtime, new, and aspiring software engineers and software engineering leaders to learn Resilience Engineering, Human Factors, Systems Safety, and distilling information within their organizations through conversation, research, and sharing of ideas.
+We're at an age in software where learning from incidents is pivotal to our companies continued successes. There is an opportunity for Software Engineers to learn more about the applications of Resilience Engineering, Human Factors, and Systems Safety to their everyday work with the goal of learning how we can extract value from incidents and surprises. This Slack exists to help longtime, new, and aspiring software engineers and software engineering leaders to learn Resilience Engineering, Human Factors, Systems Safety, and distilling information within their organizations through conversation, research, and sharing of ideas.
 
 If you're just getting started in this field we recommend reading: 
 * How Complex Systems Fail, by Richard Cook
