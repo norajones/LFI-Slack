@@ -34,6 +34,8 @@ If you know someone who should be in here, drop one of the admins a line and the
 * Jessica Devita @DeVita (PST) 
 * Will Gallego, @Will Gallego (EST)
 * Laura Maguire, @Laura Maguire (EST)
+* Richard Cook, @Richard Cook (EST)
+* John Allspaw, @jallspaw (EST)
 
 We are a small and new community right now, but we expect this to evolve and grow over time, as such, so will these guidelines.
 
