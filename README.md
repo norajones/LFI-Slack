@@ -37,7 +37,7 @@ If you know someone who should be in here, drop one of the admins a line and the
 * Richard Cook, @Richard Cook (EST)
 * John Allspaw, @jallspaw (EST)
 
-We are a small and new community right now, but we expect this to evolve and grow over time, as such, so will these guidelines.
+We are a small and new community right now, but we expect this to evolve and grow over time, as such, so will these guidelines. [The Code of Conduct is here.](https://github.com/norajones/LFI-Slack/blob/master/CodeOfConduct.md)
 
 Happy learning!
 
